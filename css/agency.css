@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #FE9136;
+    color: #fed136;
 }
 
 p {
@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Arial","Helvetica Neue",Helvetica,Arial,cursive;
     color: #fed136;
 }
 
